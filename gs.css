@@ -38,7 +38,7 @@ table,th,td{
     margin-right:150px;
 
 }
-tr:nth-child(odd){
+tr:nth-child(even){
 background-color: aquamarine;
 
 }
