@@ -1,0 +1,23 @@
+.speech{
+    Color: black;
+    size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direction{
+    Color:black;
+    size: 19px;
+    font-family: 'Times New Roman',Times,serif;
+    background-color:pink;
+}
+.direction:hover{
+    background-color: bisque;
+
+}
+.JOEL {
+
+    color:aqua;
+}
+.ANDREW{
+    color:aquamarine;
+}
