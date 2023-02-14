@@ -38,3 +38,7 @@ table,th,td{
     margin-right:150px;
 
 }
+tr:nth-child(odd){
+background-color: aquamarine;
+
+}
